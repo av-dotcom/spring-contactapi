@@ -39,5 +39,6 @@ public class ContactService {
 
     public void deleteContact(Contact contact) {
         contactRepo.delete(contact);
+        //TODO trying comment
     }
 }
