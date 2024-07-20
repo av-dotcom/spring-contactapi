@@ -1,7 +1,4 @@
-# Spring Boot Backend
-
-## Introduction
-A Spring Boot backend application managing contacts with CRUD operations and photo upload.
+# ConatctAPI - Spring Boot Backend for Full Stack Project
 
 ## Features
 - Create, read, update, delete contacts
@@ -18,8 +15,8 @@ A Spring Boot backend application managing contacts with CRUD operations and pho
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-repo/spring-boot-backend.git
-   cd spring-boot-backend
+   git clone https://github.com/spring-contactapi/spring-contactapi.git
+   cd spring-contactapi
    ```
 2. Build the project:
    ```bash
