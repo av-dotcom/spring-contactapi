@@ -15,7 +15,7 @@
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/spring-contactapi/spring-contactapi.git
+   git clone https://github.com/av-dotcom/spring-contactapi.git
    cd spring-contactapi
    ```
 2. Build the project:
